@@ -20,7 +20,7 @@ test("Check API Health", async ({request})=>{
 
     let duration=endTime-startTime;
 
-    if(duration>1000){
+    if(duration>400){
         throw new Error(`API response is slow ${duration}`)
     }else{
         console.log(`Total Duration of the response is : ${duration}`)
