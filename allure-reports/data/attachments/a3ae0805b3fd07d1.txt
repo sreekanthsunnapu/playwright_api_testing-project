@@ -1,0 +1,21 @@
+Token is:  b67a0932ceb6514
+Original Booking Details:  {
+  bookingid: 1728,
+  booking: {
+    firstname: 'Sreekanth',
+    lastname: 'Sunnapu',
+    totalprice: 400,
+    depositpaid: true,
+    bookingdates: { checkin: '2026-01-01', checkout: '2026-02-01' },
+    additionalneeds: 'Dinner'
+  }
+}
+New Booking ID is:  1728
+Updated Booking Details:  {
+  firstname: 'Sreekanth',
+  lastname: 'Sunnapu',
+  totalprice: 600,
+  depositpaid: false,
+  bookingdates: { checkin: '2026-01-01', checkout: '2026-02-01' },
+  additionalneeds: 'Self Drive Car'
+}

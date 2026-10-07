@@ -1,0 +1,142 @@
+[
+  {
+    id: '1',
+    name: 'sreekanth',
+    location: 'hyderabad',
+    phone: '1234567890',
+    courses: [ 'C Lang', 'C++' ]
+  },
+  {
+    id: '2',
+    name: 'kiran',
+    location: 'madras',
+    phone: '1234671210',
+    courses: [ 'Java', 'JavaScript' ]
+  },
+  {
+    id: '3',
+    name: 'Kumar Name Updated',
+    location: 'Assam - Updated from PUT Request',
+    phone: '1234509876',
+    courses: [ 'GitHub', 'Jenkins', 'CICD' ]
+  },
+  {
+    id: '4',
+    name: 'Peter',
+    location: 'newyork',
+    phone: '1234512345',
+    courses: [ 'PlayWright', 'Selenium' ]
+  },
+  {
+    id: '5',
+    name: 'Jane Smith',
+    location: 'San Jose',
+    phone: '1283767890',
+    courses: [ 'Manual Testing', 'Automation' ]
+  },
+  {
+    id: '6',
+    name: 'Glen Philipps',
+    location: 'New Jersy',
+    phone: '7474167890',
+    courses: [ 'Sql', 'HTML' ]
+  },
+  {
+    id: '7',
+    name: 'Christofer Joseph',
+    location: 'Bangalore',
+    phone: '9988776655',
+    courses: [ 'Postman', 'API Testing' ]
+  },
+  {
+    id: '8',
+    name: 'Mathew Hadden',
+    location: 'Delhi',
+    phone: '8776567890',
+    courses: [ 'WebServices', 'XPATH' ]
+  },
+  {
+    id: '9',
+    name: 'John Miller',
+    location: 'Bombay',
+    phone: '3344887890',
+    courses: [ 'XML', 'CSS' ]
+  },
+  {
+    id: '10',
+    name: 'Reventh Reddy',
+    location: 'Mahaboobnagar',
+    phone: '1234567890',
+    courses: [ 'TestNG', 'Maven' ]
+  },
+  {
+    id: '11',
+    name: 'Vikramarka',
+    location: 'Khammam',
+    phone: '1234343320',
+    courses: [ 'Framework', 'JSON' ]
+  },
+  {
+    name: 'ponguleti Srinivas',
+    location: 'Khammam',
+    phone: '1234343320',
+    courses: [ 'Test_POST_Request', 'OnLocalHost-EndPoint' ],
+    id: '-RJ_tHugoKs'
+  },
+  {
+    id: 'd_7QcFQ5zVg',
+    name: 'Habeeb',
+    location: 'Madras',
+    phone: '12343433121',
+    courses: [ 'LLB', 'BA' ]
+  },
+  {
+    id: 'eZmz4Hxqrqo',
+    name: 'Karthik Reddy',
+    location: 'Madras',
+    phone: '1234343320',
+    courses: [ 'Test_POST_Request', 'OnLocalHost-EndPoint' ]
+  },
+  {
+    name: 'updatedName',
+    location: 'updatedLocation',
+    phone: '0000000000',
+    courses: [ 'newCourse1', 'newCourse2' ],
+    id: 'Ttbl4MP4hAw'
+  },
+  {
+    name: 'updatedName',
+    location: 'Surat',
+    phone: '0000000000',
+    courses: [ 'newCourse1', 'newCourse2' ],
+    id: 'AbwWZ8xC1uQ'
+  },
+  {
+    name: 'updatedName',
+    location: 'Surat',
+    phone: '0000000000',
+    courses: [ 'newCourse1', 'newCourse2' ],
+    id: 'ghfwcNDR6cE'
+  },
+  {
+    name: 'Sreekanth Playwright Update Request',
+    location: 'partial update from Patch request',
+    phone: '1234567890',
+    courses: [ 'Playwright API Testing', 'request.put()' ],
+    id: 'Kf_EWAuMsu0'
+  },
+  {
+    name: 'Sreekanth Playwright Post Request',
+    location: 'from playwright',
+    phone: '1234567890',
+    courses: [ 'Playwright API Testing', 'request.post()' ],
+    id: 'UVvF2rsUZb8'
+  }
+]
+{
+  id: '1',
+  name: 'sreekanth',
+  location: 'hyderabad',
+  phone: '1234567890',
+  courses: [ 'C Lang', 'C++' ]
+}

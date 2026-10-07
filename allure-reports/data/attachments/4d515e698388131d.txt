@@ -1,0 +1,12 @@
+OK
+{
+  bookingid: 1737,
+  booking: {
+    firstname: 'Karthik',
+    lastname: 'Vallabh',
+    totalprice: 333,
+    depositpaid: false,
+    bookingdates: { checkin: '2026-11-01', checkout: '2026-12-10' },
+    additionalneeds: 'Dinner'
+  }
+}

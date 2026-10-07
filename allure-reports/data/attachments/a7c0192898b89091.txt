@@ -1,0 +1,4 @@
+200
+{ token: 'b20a773cc2bb301' }
+200
+{ reason: 'Bad credentials' }

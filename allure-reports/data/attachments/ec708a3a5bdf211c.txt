@@ -1,0 +1,13 @@
+token is:  79a3eefd73382fe
+Booking ID is :  1729
+Booking Details:  {
+  firstname: 'Revanth Reddy',
+  lastname: 'Anumula',
+  totalprice: 999,
+  depositpaid: true,
+  bookingdates: { checkin: '2026-10-01', checkout: '2026-11-01' },
+  additionalneeds: 'Breakfast and Dinner'
+}
+Delete Status Text():  Created
+Status Code:  404
+Status Text:  Not Found
