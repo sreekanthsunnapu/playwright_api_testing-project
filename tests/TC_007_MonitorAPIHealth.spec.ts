@@ -21,7 +21,8 @@ test("Check API Health", async ({request})=>{
     let duration=endTime-startTime;
 
     if(duration>400){
-        throw new Error(`API response is slow ${duration}`)
+        //throw new Error(`API response is slow ${duration}`)
+        flag=false;       //instead of throwing error, im making flag flase
     }else{
         console.log(`Total Duration of the response is : ${duration}`)
     }
